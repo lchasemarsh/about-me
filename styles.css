@@ -1,0 +1,44 @@
+/* universal selectors */
+
+body {
+    margin: 0;
+    font-size: 18px;
+    font-family: 'Lato', sans-serif;
+    color: rgb(0, 0, 0);
+    background-color: #2e354f;
+    text-align: center;
+}
+
+h1, h2 {
+    font-weight: 800;
+} 
+
+/* typography */
+
+h1 {
+    font-size: 36px;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    
+}
+h2 {
+    font-size: 24px;
+}
+
+/* Layout */
+
+
+.section-one {
+    background-color: white;
+    padding: 100px 100px;
+}
+
+.section-two {
+    background-color: rgb(114, 114, 114);
+    padding: 100px 100px;
+}
+.container {
+    width: 620px;
+    margin: 0 auto;
+    /* border: 2px solid magenta; */
+}
